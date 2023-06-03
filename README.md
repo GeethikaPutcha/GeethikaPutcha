@@ -1,4 +1,4 @@
-![logo](https://github.com/GeethikaPutcha/Geethika-Putcha/blob/main/1682932997869.jpg)
+![logo](https://github.com/GeethikaPutcha/GeethikaPutcha/blob/main/1682932997869.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Geethika Putcha</h1>
 <h3 align="center">Embarking on a journey as a Data Analyst</h3>
 
