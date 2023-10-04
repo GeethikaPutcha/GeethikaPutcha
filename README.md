@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Power BI, SQL, Excel**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/GeethikaPutcha](https://linktr.ee/GeethikaPutcha)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://codebasics.io/portfolio/Geethika-Sri-Aparna)
 
 - 💬 Ask me about **Power BI,Excel**
 
